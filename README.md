@@ -17,3 +17,6 @@ o dynamo ébanco  norelacional   chave 0valor
 o rds é banco relacional  usa tabelas  
 como não   vai fazer sentido usar rds  poisusa tabela  tabela 
 odynamo faz mais swentido
+
+# AGENTES  DE IA 
+será utilizado agentes para exconstruir o código  e fazer os testes                41
